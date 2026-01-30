@@ -1,5 +1,8 @@
 # HTML Resume Page Assignment
 
+# Live Deployment Link
+Vercel Link: https://html-resume-page-blue.vercel.app/
+
 ## Description
 This project is a single-page resume website built using only HTML.
 No CSS or JavaScript has been used, as per the assignment instructions.
@@ -24,4 +27,4 @@ No CSS or JavaScript has been used, as per the assignment instructions.
 - Can be hosted using GitHub Pages
 
 ## Author
-John Doe
+Siddhant Vaibhav Gorte
